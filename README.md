@@ -5,7 +5,7 @@ I'm a full-stack developer and game creator.
 ## 🧰 Tools & Technologies
 
 - **Languages:** JavaScript / TypeScript, Python, C#, C++
-- **Engines & Frameworks:** Vue, Tailwind CSS, Blender, Unreal Engine 5
+- **Engines & Frameworks:** Vue, Tailwind CSS, Node.js, Blender, Unreal Engine 5
 
 ## 🔧 Currently Building
 
